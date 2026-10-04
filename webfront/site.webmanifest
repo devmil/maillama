@@ -1,0 +1,14 @@
+{
+  "name": "MailLama",
+  "short_name": "MailLama",
+  "start_url": "/maillama/",
+  "scope": "/maillama/",
+  "display": "browser",
+  "icons": [
+    {
+      "src": "/maillama/assets/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ]
+}

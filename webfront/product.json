@@ -1,0 +1,10 @@
+{
+  "name": "MailLama",
+  "slug": "maillama",
+  "maker": "Devmil Solutions",
+  "url": "https://devmil.de/maillama/",
+  "status": "preview",
+  "downloads": [],
+  "platforms": ["macOS", "Linux"],
+  "languages": ["en", "de"]
+}
