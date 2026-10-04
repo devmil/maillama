@@ -4,11 +4,18 @@
   "start_url": "/maillama/",
   "scope": "/maillama/",
   "display": "browser",
+  "theme_color": "#6D4AFF",
+  "background_color": "#E8ECEE",
   "icons": [
     {
       "src": "/maillama/assets/favicon.png",
       "sizes": "64x64",
       "type": "image/png"
+    },
+    {
+      "src": "/maillama/assets/lama/tile-crossproton.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
     }
   ]
 }
